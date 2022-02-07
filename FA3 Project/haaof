@@ -1,0 +1,9 @@
+/* background 5 main 1 */
+
+position: absolute;
+width: 1920px;
+height: 925px;
+left: 0px;
+top: 155px;
+
+background: url(background 5 main.jpg);

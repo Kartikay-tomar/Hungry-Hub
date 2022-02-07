@@ -1,0 +1,63 @@
+/* background 5 main 1 */
+
+position: absolute;
+width: 1920px;
+height: 925px;
+left: 0px;
+top: 155px;
+
+background: url(background 5 main.jpg);
+
+
+/* What you want to eat ? */
+
+position: absolute;
+width: 399px;
+height: 53px;
+left: 395px;
+top: 490px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 53px;
+/* identical to box height */
+
+color: #000000;
+
+/* Search */
+
+position: absolute;
+width: 199px;
+height: 75px;
+left: 1364px;
+top: 490px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 44px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+/* Your favorite food, Deliver with HungryHub */
+
+position: absolute;
+width: 1330px;
+height: 93px;
+left: 321px;
+top: 336px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 85px;
+
+color: #000000;
+
+
+
+

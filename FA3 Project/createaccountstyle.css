@@ -1,0 +1,133 @@
+div.textpanel
+{
+    border-radius: 3%;
+    box-shadow: black;
+    vertical-align: middle;   
+  background-color: white;
+    position: absolute;
+    margin: 0;
+    top: 14%;
+    left: 47.5%;
+    padding: 60px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+
+}
+div.logindiv
+{
+    vertical-align: middle;
+    background-color: white;
+    position: relative;
+    box-shadow: 10px 10px 8px #888888;
+    border-radius: 20px;
+    padding: 30px;
+   
+}
+
+body{
+    background-image: url('fronttt.JPG');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+span.welcome{
+    margin-left: 10px;
+    text-shadow: black;
+
+    font-size: 50px;
+    color: rgb(156, 100, 27);
+    text-decoration-style: solid;
+    text-align: center;
+}
+span.login{
+    margin-left: 30px;
+    text-align: center;
+    font-size: 60px;
+    color: rgb(19, 22, 17);
+    text-align: center;
+    text-decoration-style: solid;
+}
+label.fname{
+    margin-left:  35px;
+    font-size: larger;
+    text-align: center;
+    color: #2C04FF;
+    font-weight: bold;
+}
+input.nameinput{
+    border-top: none ;
+    border-right: none;
+    border-left: none;
+    width: 250px;
+}
+.loginbutton{
+    color: rgb(19, 22, 17);
+    block-size: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10%;  
+    font-size: 15px ;
+    background-color:#006FFF;
+    ;
+    color: white;
+}
+input.lnameinput{
+    border-top: none ;
+    border-right: none;
+    border-left: none;
+    width: 150px;
+}
+input.maininput{
+    border-top: none ;
+    border-right: none;
+    border-left: none;
+    width: 250px;
+}
+label.lname{
+    margin-left: 13px;
+    font-size: larger;
+    text-align: center;
+    color: rgb(116, 73, 18);
+    font-weight: bold;
+}
+label.emailid{
+    margin-left: 35px;
+    font-size: larger;
+    text-align: center;
+    color: #2C04FF;
+    font-weight: bold;
+}
+
+label.usernameindex{
+    margin-left:  35px;
+    font-size: larger;
+    text-align: center;
+    color: #2C04FF;
+    font-weight: bold;
+}
+label.numberlabel{
+    margin-left:  35px;
+    font-size: larger;
+    text-align: center;
+    font-weight: bold;
+    color: #2C04FF;
+}
+label.passwordlabel{
+    margin-left:  35px;
+    font-size: larger;
+    text-align: center;
+    color: #2C04FF;
+    font-weight: bold;
+}
+input.passwordinput{
+    border-top: none ;
+    border-right: none;
+    border-left: none;
+    width: 250px;
+
+}
+span.member{
+    font-size: 22px;
+    font-style: italic;
+
+}

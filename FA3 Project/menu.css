@@ -1,0 +1,177 @@
+span.hungrystyle{
+    position: absolute;
+width: 302.4px;
+height: 71.2px;
+left: 54.4px;
+top: 24.6px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 51.2px;
+line-height: 68px;
+color: #1D32A0;
+}
+span.hubstyle{
+position: absolute;
+width: 302.4px;
+height: 71.2px;
+left: 225px;
+top: 24.6px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 51.2px;
+line-height: 68px;
+color: #13cc2c;
+
+
+}
+a.createstyle{
+    text-decoration: none;
+position: absolute;
+width: 336px;
+height: 47.2px;
+left: 1133.6px;
+top: 41.4px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 28.8px;
+line-height: 38.4px;
+
+color: #000000;
+
+mix-blend-mode: darken;
+}
+a.logstyle{
+    text-decoration: none;
+    position: absolute;
+width: 133.6px;
+height: 62.4px;
+left: 1402.4px;
+top: 41.4px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 28.8px;
+line-height: 38.4px;
+
+color: #000000;
+
+
+}
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+   background-image: url('finalmenubanner.png');
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: 1584px 400px;
+    background-position: 0px 100px;
+
+}
+.pepperoni{
+    /* Cheese Pepperoni Pizza Rs.150/- */
+
+position: absolute;
+width: 549px;
+height: 300px;
+left: 55px;
+top: 550px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 43px;
+line-height: 50px;
+
+color: #000000;
+
+
+}
+.corn{
+    position: absolute;
+width: 549px;
+height: 300px;
+left: 620px;
+top: 550px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 43px;
+line-height: 50px;
+
+color: #000000;
+
+
+}
+
+.combination{
+    position: absolute;
+width: 549px;
+height: 300px;
+left: 1125px;
+top: 550px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 43px;
+line-height: 50px;
+
+color: #000000;
+
+
+}
+.price1{
+    position: absolute;
+    width: 549px;
+    height: 300px;
+    left: 55px;
+    top: 630px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 50px;
+    
+    color: #000000;
+    
+     
+}
+.price2{
+    position: absolute;
+    width: 549px;
+    height: 300px;
+    left:620px;
+    top: 630px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 50px;
+    
+    color: #000000;
+    
+     
+}.price3{
+    position: absolute;
+    width: 549px;
+    height: 300px;
+    left: 1125px;
+    top: 630px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 50px;
+    
+    color: #000000;
+    
+     
+}

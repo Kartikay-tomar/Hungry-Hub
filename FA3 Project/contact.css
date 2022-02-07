@@ -1,0 +1,165 @@
+body{
+    background-image: url('fronttt.JPG');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+label.fname{
+    margin-left:  35px;
+    font-size: larger;
+    text-align: center;
+    color: #2C04FF;
+    font-weight: bold;
+}
+input.nameinput{
+    border-top: none ;
+    border-right: none;
+    border-left: none;
+    width: 250px;
+}
+.loginbutton{
+    color: rgb(19, 22, 17);
+    block-size: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10%;  
+    font-size: 15px ;
+    background-color:#006FFF;
+    ;
+    color: white;
+}
+input.lnameinput{
+    border-top: none ;
+    border-right: none;
+    border-left: none;
+    width: 150px;
+}
+input.maininput{
+    border-top: none ;
+    border-right: none;
+    border-left: none;
+    width: 250px;
+}
+label.lname{
+    margin-left: 13px;
+    font-size: larger;
+    text-align: center;
+    color: rgb(116, 73, 18);
+    font-weight: bold;
+}
+label.emailid{
+    margin-left: 35px;
+    font-size: larger;
+    text-align: center;
+    color: #2C04FF;
+    font-weight: bold;
+}
+
+label.usernameindex{
+    margin-left:  35px;
+    font-size: larger;
+    text-align: center;
+    color: #2C04FF;
+    font-weight: bold;
+}
+label.numberlabel{
+    margin-left:  35px;
+    font-size: larger;
+    text-align: center;
+    font-weight: bold;
+    color: #2C04FF;
+}
+label.passwordlabel{
+    margin-left:  35px;
+    font-size: larger;
+    text-align: center;
+    color: #2C04FF;
+    font-weight: bold;
+}
+input.passwordinput{
+    border-top: none ;
+    border-right: none;
+    border-left: none;
+    width: 250px;
+
+}
+span.member{
+    font-size: 22px;
+    font-style: italic;
+
+}
+div.logindiv
+{
+    vertical-align: middle;
+    background-color: white;
+    position: relative;
+    
+   
+}
+div.textpanel
+{
+    border-radius: 3%;
+    box-shadow: black;
+    vertical-align: middle;   
+  background-color: white;
+    position: absolute;
+    margin: 0;
+    top: 14%;
+    left: 47.5%;
+    padding: 60px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    box-shadow: 10px 10px 8px #888888;
+
+
+}
+span.login{
+    margin-left: 30px;
+    text-align: center;
+    font-size: 60px;
+    color: rgb(19, 22, 17);
+    text-align: center;
+    text-decoration-style: solid;
+    margin-left: 70px;
+}
+span.login1{
+    margin-left: 63px;
+    text-align: center;
+    font-size: 22px;
+    color: black;
+    text-align: center;
+    text-decoration-style: solid;
+}
+.loginbutton{
+    color: rgb(19, 22, 17);
+    block-size: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10%;  
+    font-size: 15px ;
+    background-color:#006FFF;
+    margin-left: 230px;
+    color: white;
+}
+span.login2{
+    margin-left: 148px;
+    text-align: center;
+    font-size: 22px;
+    color: black;
+    text-align: center;
+    text-decoration-style: solid;
+}
+label.textbox{
+    margin-left:  35px;
+    font-size: larger;
+    text-align: center;
+    color: #2C04FF;
+    font-weight: bold;
+}
+.textareainput{
+    border-top: none ;
+    border-right: none;
+    border-left: none;
+    width: 250px;
+    margin-left: 49px;
+    border-width: 2px;
+}

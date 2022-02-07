@@ -1,0 +1,97 @@
+body{
+    background-image: url('fronttt.JPG');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#heading1{
+    margin-left: 800px;
+    margin-top: 70px;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    background: -webkit-linear-gradient(rgb(255, 238, 0), red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+img.shivam{
+  width: 205.4px;
+  height: 214.4px;
+  margin-left: 650px;
+  margin-top: 40px;
+  background: url(Shivam.jpg);
+  border-radius: 228px;
+  }
+  img.karan{
+    width: 205.4px;
+    height: 214.4px;
+    margin-left: 1250px;
+    margin-top: 90px;
+    background: url(lala.jpeg);
+    border-radius: 228px;   
+  }
+  img.prajval{
+    width: 205.4px;
+    height: 214.4px;
+    margin-left: 650px;
+    margin-top: 90px;
+    background: url(prajval.jpeg);
+    border-radius: 228px;
+    
+  }
+  img.kartikay{
+    width: 205.4px;
+    height: 214.4px;
+    margin-left: 1250px;
+    margin-top: 90px;
+    background: url(meetha\ lindi\ ka.jpg);
+    border-radius: 228px;
+    
+  }
+  span.shivamtext{
+    font-size:44px;
+    position: absolute;
+    margin-left:10px;
+    margin-top: 70px; 
+  }
+  span.karantext{
+    font-size:44px;
+    position: absolute;
+    margin-left: -450px;
+    margin-top: 130px; 
+  }
+  span.prajvaltext{
+    font-size:44px;
+    position: absolute;
+    margin-left:15px;
+    margin-top: 130px; 
+  }
+  span.kartikaytext{
+    font-size:44px;
+    position: absolute;
+    margin-left: -500px;
+    margin-top: 130px; 
+  }
+  .index1{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 12px;
+    margin-top: 140px;
+  }
+  .index2{
+    font-size: 20px;
+    position: absolute;
+    margin-left: -335px;
+    margin-top: 190px;
+  }
+  .index3{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 18px;
+    margin-top: 190px;
+  }
+  .index4{
+    font-size: 20px;
+    position: absolute;
+    margin-left: -335px;
+    margin-top: 190px;
+  }

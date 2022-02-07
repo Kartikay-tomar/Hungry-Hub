@@ -1,0 +1,1123 @@
+span.hungrystyle{
+    position: absolute;
+width: 302.4px;
+height: 71.2px;
+left: 54.4px;
+top: 24.6px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 51.2px;
+line-height: 68px;
+color: #1D32A0;
+}
+span.hubstyle{
+position: absolute;
+width: 302.4px;
+height: 71.2px;
+left: 225px;
+top: 24.6px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 51.2px;
+line-height: 68px;
+color: #13cc2c;
+
+
+}
+span.prime{
+    text-decoration: none;
+position: absolute;
+width: 336px;
+height: 47.2px;
+left: 810.6px;
+top: 41.4px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 28.8px;
+line-height: 38.4px;
+
+}
+a.createstyle{
+    text-decoration: none;
+position: absolute;
+width: 336px;
+height: 47.2px;
+left: 910.6px;
+top: 41.4px;
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 28.8px;
+line-height: 38.4px;
+
+color: rgb(0, 0, 0);
+
+mix-blend-mode: darken;
+}
+a.logstyle{
+    text-decoration: none;
+    position: absolute;
+width: 133.6px;
+height: 62.4px;
+left: 1130.4px;
+top: 41.4px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 28.8px;
+line-height: 38.4px;
+
+color: #5b0077;
+
+
+}
+a.testheader{
+    text-decoration: none;
+    position: absolute;
+width: 133.6px;
+height: 62.4px;
+left: 1360.4px;
+top: 41.4px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 28.8px;
+line-height: 38.4px;
+
+color: #5b0077;
+
+
+}
+a.contactheader{
+    text-decoration: none;
+    position: absolute;
+width: 133.6px;
+height: 62.4px;
+left: 1240.4px;
+top: 41.4px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 28.8px;
+line-height: 38.4px;
+
+color: #000000;
+
+
+}
+span.comingsoon{
+    position: absolute;
+width: 1064px;
+height: 74.4px;
+left: 556.8px;
+top: 300.8px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 61.2px;
+line-height: 68px;
+
+color: #000000;
+
+}
+span.loading{
+    position: absolute;
+width: 1064px;
+height: 74.4px;
+left: 556.8px;
+top: 300.8px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 61.2px;
+line-height: 68px;
+
+color: #000000;
+
+}
+span.wip{
+    display: none;
+    position: absolute;
+width: 1064px;
+height: 74.4px;
+left: 386.8px;
+top: 400.8px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 61.2px;
+line-height: 68px;
+
+color: #000000;
+}
+.loading:hover + .wip{
+    display:block;
+    color:red;
+}
+
+body{
+    overflow-x: hidden;
+background: url("background.jpg");
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-position: 0px 100px;
+background-size: 1541px 620px;
+
+
+}
+span.h1style{
+    position: absolute;
+width: 1064px;
+height: 74.4px;
+left: 256.8px;
+top: 268.8px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 51.2px;
+line-height: 68px;
+
+color: #000000;
+
+
+}
+input.h1input{
+    
+font-size: 30px;
+position: absolute;
+width: 758.4px;
+height: 86.4px;
+left: 289.6px;
+top: 369.6px;
+
+background: #FFFFFF;
+
+}
+::placeholder{
+    
+
+position: absolute;
+width: 319px;
+height: 42px;
+left: 316px;
+top: 392px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 42px;
+
+color: #000000;
+
+
+}
+input.searchdes
+{
+    position: absolute;
+width: 190px;
+height: 84px;
+left: 1060px;
+top: 369px;
+
+background: #423A3A;
+
+}
+span.searchstyle{
+    position: absolute;
+width: 159.2px;
+height: 60px;
+left: 1098.2px;
+top: 389px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 35.2px;
+line-height: 46.4px;
+
+color: white;
+}
+span.a{
+ /* Food Near Me */
+
+position: absolute;
+width: 313.6px;
+height: 64px;
+left: 31.2px;
+top: 750px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 43.2px;
+line-height: 50.4px;
+
+color: #000000;
+}
+
+img.index1{
+position: absolute;
+width: 205.4px;
+height: 214.4px;
+left: 48.8px;
+top: 850px;
+
+background: url(pizza.jpg);
+border-radius: 228px;
+
+}
+img.index2{
+position: absolute;
+width: 205.4px;
+height: 214.4px;
+left: 293.6px;
+top: 850px;
+
+background: url(pizza.jpg);
+border-radius: 228px;
+
+}
+img.index3{
+position: absolute;
+width: 205.4px;
+height: 214.4px;
+left: 538.4px;
+top: 850px;
+
+background: url(pizza.jpg);
+border-radius: 228px;
+
+}img.index4{
+position: absolute;
+width: 205.4px;
+height: 214.4px;
+left: 783.2px;
+top: 850px;
+
+background: url(pizza.jpg);
+border-radius: 228px;
+
+}img.index5{
+position: absolute;
+width: 205.4px;
+height: 214.4px;
+left: 1028px;
+top: 850px;
+
+background: url(pizza.jpg);
+border-radius: 228px;
+
+}img.index6{
+position: absolute;
+width: 205.4px;
+height: 214.4px;
+left: 1272.8px;
+top: 850px;
+
+background: url(pizza.jpg);
+border-radius: 228px;
+
+}
+span.pizza1{
+position: absolute;
+width: 150.2px;
+height: 55.2px;
+left: 110px;
+top: 1087px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 37.6px;
+
+color: #000000;
+
+
+}
+span.pizza2{
+    position: absolute;
+    width: 150.2px;
+    height: 55.2px;
+    left: 355px;
+    top: 1087px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37.6px;
+    
+    color: #000000;
+    
+}    
+span.pizza3{
+        position: absolute;
+        width: 150.2px;
+        height: 55.2px;
+        left: 607px;
+        top: 1087px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 32px;
+        line-height: 37.6px;
+        
+        color: #000000;
+        
+        
+}
+span.pizza4{
+            position: absolute;
+            width: 150.2px;
+            height: 55.2px;
+            left: 845px;
+            top: 1087px;
+            
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 32px;
+            line-height: 37.6px;
+            
+            color: #000000;
+            
+            
+            }span.pizza5{
+                position: absolute;
+                width: 150.2px;
+                height: 55.2px;
+                left: 1085px;
+                top: 1087px;
+                
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 32px;
+                line-height: 37.6px;
+                
+                color: #000000;
+                
+                
+                }span.pizza6{
+                    position: absolute;
+                    width: 150.2px;
+                    height: 55.2px;
+                    left: 1330px;
+                    top: 1087px;
+                    
+                    font-family: Roboto;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 32px;
+                    line-height: 37.6px;
+                    
+                    color: #000000;
+                    
+                    
+                    }
+                    span.a1{
+                        position: absolute;
+                    width: 313.6px;
+                    height: 64px;
+                    left: 60.2px;
+                    top: 2300px;
+                    
+                    font-family: Roboto;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 43.2px;
+                    line-height: 50.4px;
+                    
+                    color: #000000;
+                    }
+span.ambala{
+    /* Ambala */
+
+position: absolute;
+width: 218.4px;
+height: 44px;
+top: 2370px;
+
+font-family: Tenali Ramakrishna;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 60px;
+text-align: center;
+
+color: #000000;
+
+
+}
+span.dalhousie{
+    /* Chandigarh */
+    position: absolute;
+width: 218.4px;
+height: 44px;
+top: 2430px;
+
+font-family: Tenali Ramakrishna;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 60px;
+text-align: center;
+
+color: #000000;
+
+
+}
+span.jind{
+    position: absolute;
+    width: 218.4px;
+    height: 44px;
+    top: 2490px;
+    
+    font-family: Tenali Ramakrishna;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 60px;
+    text-align: center;
+    
+    color: #000000;
+}
+span.panipat{
+    position: absolute;
+    width: 218.4px;
+    height: 44px;
+    top: 2550px;
+    
+    font-family: Tenali Ramakrishna;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 60px;
+    text-align: center;
+    
+    color: #000000;
+}
+img.grid1{
+    /* online food 1 */
+
+position: absolute;
+width: 344px;
+height: 304px;
+top: 1250px;
+
+border-radius: 44px;
+
+}div.rect1{
+/* Rectangle 3 */
+
+position: absolute;
+width: 344px;
+height: 56px;
+left: 36px;
+top: 1500px;
+
+background: white;
+}
+div.rect2{
+    /* Rectangle 3 */
+    
+    position: absolute;
+    width: 344px;
+    height: 56px;
+    left: 400px;
+    top: 1500px;
+    
+    background: rgb(255, 255, 255);
+    }div.rect3{
+        /* Rectangle 3 */
+        
+        position: absolute;
+        width: 344px;
+        height: 56px;
+        left: 764px;
+        top: 1500px;
+        
+        background: rgb(255, 255, 255);
+        }div.rect4{
+            /* Rectangle 3 */
+            
+            position: absolute;
+            width: 344px;
+            height: 56px;
+            left: 1132px;
+            top: 1500px;
+            
+            background: white;
+            }
+
+span.online{
+    /* Order Food Online */
+
+position: absolute;
+width: 316px;
+height: 68px;
+left: 48px;
+top: 1528px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 35.2px;
+line-height: 41.6px;
+text-align: center;
+
+color: #4F4F4F;
+
+
+}
+span.out{
+    
+position: absolute;
+width: 316px;
+height: 68px;
+left: 415px;
+top: 1528px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 35.2px;
+line-height: 41.6px;
+text-align: center;
+
+color: #4F4F4F;
+
+}
+span.clubs{
+    
+    position: absolute;
+    width: 316px;
+    height: 68px;
+    left: 780px;
+    top: 1528px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35.2px;
+    line-height: 41.6px;
+    text-align: center;
+    
+    color: #4F4F4F;
+    
+    }
+    span.premium{
+    
+        position: absolute;
+        width: 316px;
+        height: 68px;
+        left: 1147px;
+        top: 1528px;
+        
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 35.2px;
+        line-height: 41.6px;
+        text-align: center;
+        
+        color: #4F4F4F;
+        
+        }
+
+
+span.blue1{
+color: #1D32A0 ;
+}
+span.green1
+{
+    color: #13cc2c ;
+}
+span.h4{
+    /* Collections */
+
+position: absolute;
+width: 313.6px;
+height: 64px;
+left: 75.2px;
+top: 1650px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 51.2px;
+line-height: 60px;
+
+color: #000000;
+
+
+}
+span.h4index{
+    /* Explore curated lists of top restaurants, bars, pubs and cafes */
+
+position: absolute;
+width: 996.8px;
+height: 44.8px;
+left: 75.2px;
+top: 1720px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 28.8px;
+line-height: 33.6px;
+
+color: #5E5D5D;
+
+
+}
+       
+img.collection1{
+    /* collections 1 */
+
+position: absolute;
+width: 324.8px;
+height: 436.8px;
+left: 40.4px;
+top: 1810px;
+
+border-radius: 24px;
+
+}
+img.collection2{
+    /* collections 1 */
+
+position: absolute;
+width: 324.8px;
+height: 436.8px;
+left: 410px;
+top: 1810px;
+
+border-radius: 24px;
+
+}
+img.collection3{
+    /* collections 1 */
+
+position: absolute;
+width: 324.8px;
+height: 436.8px;
+left: 780px;
+top: 1810px;
+
+border-radius: 24px;
+
+}
+img.collection4{
+    /* collections 1 */
+
+position: absolute;
+width: 324.8px;
+height: 436.8px;
+left: 1150px;
+top: 1810px;
+
+
+border-radius: 24px;
+
+}
+span.coltext1{
+    /* Trending this Week */
+
+position: absolute;
+width: 270.4px;
+height: 73.6px;
+left: 70.4px;
+top: 2160px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 37.6px;
+
+color: #FFFFFF;
+
+
+}
+span.coltext2{
+    /* Trending this Week */
+
+position: absolute;
+width: 270.4px;
+height: 73.6px;
+left: 440px;
+top: 2160px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 37.6px;
+
+color: #FFFFFF;
+
+
+}
+span.coltext3{
+    /* Trending this Week */
+
+position: absolute;
+width: 270.4px;
+height: 73.6px;
+left: 810px;
+top: 2160px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 37.6px;
+
+color: #FFFFFF;
+
+
+}
+span.coltext4{
+    /* Trending this Week */
+
+position: absolute;
+width: 270.4px;
+height: 73.6px;
+left: 1190px;
+top: 2160px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 37.6px;
+
+color: #FFFFFF;
+
+
+}
+div.footerbg{
+    /* Rectangle 8 */
+
+position: absolute;
+width: 1536px;
+height: 470px;
+left: 0px;
+top: 2700px;
+
+background: #13111185;
+
+
+}
+span.footerhungry{
+/* HungryHub */
+position: absolute;
+padding-top: 60px;
+width: 302.4px;
+height: 71.2px;
+left: 54.4px;
+
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 51px;
+line-height: 68px;
+
+color: blue;
+
+
+}
+span.footerhub{
+/* HungryHub */
+
+position: absolute;
+width: 302.4px;
+height: 71.2px;
+left: 222px;
+padding-top: 60px;
+
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 51px;
+line-height: 68px;
+
+color: green;
+
+
+}
+span.footertext{
+    
+    /* About HungryHub */
+
+position: absolute;
+width: 233px;
+height: 45.82px;
+left: 895.01px;
+padding-top: 80px;
+
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 25.6px;
+line-height: 33.6px;
+
+color: #FFFFFF;
+}
+
+span.footertext1{
+    
+    /* About HungryHub */
+
+position: absolute;
+width: 233px;
+height: 45.82px;
+left: 895.01px;
+padding-top: 130px;
+
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 25.6px;
+line-height: 33.6px;
+
+color: #FFFFFF;
+
+
+}
+span.footertext2{
+    
+    /* About HungryHub */
+
+position: absolute;
+width: 240px;
+height: 45.82px;
+left: 895.01px;
+padding-top: 180px;
+
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 25.6px;
+line-height: 33.6px;
+
+color: #FFFFFF;
+
+
+}
+span.footertext3{
+    
+    /* About HungryHub */
+    padding-top: 230px;
+
+position: absolute;
+width: 233px;
+height: 45.82px;
+left: 895.01px;
+
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 25.6px;
+line-height: 33.6px;
+
+color: #FFFFFF;
+
+
+}
+span.footertext4{
+    padding-top: 280px;
+
+    /* About HungryHub */
+
+position: absolute;
+width: 233px;
+height: 45.82px;
+left: 895.01px;
+
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 25.6px;
+line-height: 33.6px;
+
+color: #FFFFFF;
+
+
+}
+span.footertext5{
+    
+    /* About HungryHub */
+    padding-top: 330px;
+
+position: absolute;
+width: 233px;
+height: 45.82px;
+left: 895.01px;
+
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 25.6px;
+line-height: 33.6px;
+
+color: #FFFFFF;
+
+
+}
+span.footertext6{
+    
+    /* About HungryHub */
+
+position: absolute;
+width: 233px;
+height: 45.82px;
+left: 1230px;
+padding-top: 80px;
+
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 25.6px;
+line-height: 33.6px;
+
+color: #FFFFFF;
+
+
+}
+span.footertext7{
+    
+    /* About HungryHub */
+    padding-top: 130px;
+
+position: absolute;
+width: 233px;
+height: 45.82px;
+left: 1230px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 25.6px;
+line-height: 33.6px;
+
+color: #FFFFFF;
+
+
+}
+span.footertext8{
+    
+    /* About HungryHub */
+    padding-top: 180px;
+
+position: absolute;
+width: 240px;
+height: 45.82px;
+left: 1230px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 25.6px;
+line-height: 33.6px;
+
+color: #FFFFFF;
+
+
+}
+span.footertext9{
+    padding-top: 230px;
+
+    /* About HungryHub */
+
+position: absolute;
+width: 233px;
+height: 45.82px;
+left: 1230px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 25.6px;
+line-height: 33.6px;
+
+color: #FFFFFF;
+
+
+}
+span.footertext10{
+    
+    /* About HungryHub */
+    padding-top: 280px;
+
+position: absolute;
+width: 233px;
+height: 45.82px;
+left: 1230px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 25.6px;
+line-height: 33.6px;
+
+color: #FFFFFF;
+
+
+}
+span.footertext11{
+    padding-top: 330px;
+
+    /* About HungryHub */
+
+position: absolute;
+width: 233px;
+height: 45.82px;
+left: 1230px;
+
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 25.6px;
+line-height: 33.6px;
+
+color: #FFFFFF;
+
+
+
+
+
+} 
+
+
+    
+    
+    
+
+
+
+

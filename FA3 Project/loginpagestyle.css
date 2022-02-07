@@ -1,0 +1,74 @@
+div.textpanel
+{
+    border-radius: 3%;
+    box-shadow: black;
+    vertical-align: middle;   
+  background-color: white;
+    position: absolute;
+    margin: 0;
+    top: 18%;
+    left: 47%;
+    padding: 60px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    box-shadow: 10px 10px 8px #888888;
+
+}
+div.logindiv
+{
+    vertical-align: middle;
+    background-color: white;
+    position: relative;
+    
+   
+}
+
+body{
+    background-image: url('fronttt.JPG');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+span.welcome{
+    margin-left: 10px;
+    text-shadow: black;
+
+    font-size: 50px;
+    color: black;
+    text-decoration-style: solid;
+    text-align: center;
+}
+span.login{
+    margin-left: 70px;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    text-decoration-style: solid;
+}
+label.username{
+    margin-left: 50px;
+    font-size: larger;
+    text-align: center;
+    color: #2C04FF;
+    font-weight: bold;
+}
+input.usernameinput{
+    border-top: none ;
+    border-right: none;
+    border-left: none;
+    width: 250px;
+}
+.loginbutton{
+    color: rgb(19, 22, 17);
+    block-size: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10%;  
+    font-size: 15px ;
+    background-color: #006FFF;
+    color: white;
+}
+.index2{
+    font-style: italic;
+    font-size: 20px;
+}

@@ -1,0 +1,29 @@
+body{
+    background-image: url('Capture.JPG');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 1570px 700px;
+
+}
+.t1{
+    padding-top: 180px;
+    padding-left: 500px;
+}
+td{
+    font-size: 30px;
+
+}
+table,td,tr{
+    padding:10px;
+}
+input::-webkit-inner-spin-button {
+    appearance: none;
+    margin: 0;
+}
+.submit1{
+    background-color: blue;
+    color: white;
+    padding: 8px 16px;
+    margin-left: 650px;
+    cursor: pointer;
+  }
